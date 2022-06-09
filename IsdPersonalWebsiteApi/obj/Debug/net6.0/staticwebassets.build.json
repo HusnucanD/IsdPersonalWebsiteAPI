@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mT7n2rYQzFl5XMTl9XkwVg2BEOqNmoOZ7+nVLBCZ8zo=",
+  "Source": "IsdPersonalWebsiteApi",
+  "BasePath": "_content/IsdPersonalWebsiteApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
